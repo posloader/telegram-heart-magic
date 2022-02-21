@@ -44,9 +44,9 @@ async def process_love_words(event: NewMessage.Event):
     await client.edit_message(event.peer_id.user_id, event.message.id, 'i love')
     await asyncio.sleep(1)
     await client.edit_message(event.peer_id.user_id, event.message.id, 'i love you')
-    await asyncio.sleep(2)
+    await asyncio.sleep(1)
     await client.edit_message(event.peer_id.user_id, event.message.id, 'i love you forever')
-    await asyncio.sleep(4)
+    await asyncio.sleep(1)
     await client.edit_message(event.peer_id.user_id, event.message.id, 'i love you forever💗')
 
 
