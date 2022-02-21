@@ -13,5 +13,5 @@ $ pip3 install telethon
 ```
 $ python3 magic_heart.py
 ```
-Login in your telegram account and send "magic" in dialog | [RU]Войдите в свой аккаунт Telegram и отправьте "magic" в диалоговом окне
+[ENG]Login in your telegram account and send "magic" in dialog | [RU]Войдите в свой аккаунт Telegram и отправьте "magic" в диалоговом окне
 
