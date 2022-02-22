@@ -15,3 +15,8 @@ $ python3 magic_heart.py
 ```
 [ENG]Login in your telegram account and send "magic" in dialog | [RU]Войдите в свой аккаунт Telegram и отправьте "magic" в диалоговом окне
 
+
+
+# [ENG]Video example | [RU]Video primer
+
+$ https://youtu.be/8kThuxuQVW4
