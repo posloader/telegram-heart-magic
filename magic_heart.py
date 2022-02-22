@@ -10,7 +10,7 @@ API_HASH = '4037e9f957f6f17d461b0c288ffa50f1'
 HEART = '🤍'
 COLORED_HEARTS = ['💗', '💓', '💖', '💘', '❤️', '💞']
 MAGIC_PHRASES = ['magic']
-EDIT_DELAY = 0.1
+EDIT_DELAY = 0.01
 
 PARADE_MAP = '''
 00000000000
